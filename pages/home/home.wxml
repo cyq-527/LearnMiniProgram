@@ -1,3 +1,6 @@
 <!--home.wxml-->
 <text class="pink">home.wxml</text>
 <button size="mini">click</button>
+
+<text>01_知识点1</text>
+<text>hahahahah</text>
